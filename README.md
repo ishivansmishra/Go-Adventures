@@ -3,7 +3,7 @@
 This website contains visually stunning web project built using HTML and CSS. It is a beautiful and functional website that utilizes the parallax scrolling effect to create an immersive and engaging user experience.
 
 
-## 📌 **Live Site URL:** <a href="https://go-hiking.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://go-hiking.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
